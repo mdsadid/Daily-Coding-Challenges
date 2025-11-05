@@ -1,13 +1,13 @@
-inputStr = input('Enter a string: ')
+input_str = input('Enter a string: ')
 
-if not inputStr.strip():
+if not input_str.strip():
     print("Empty string!")
     exit()
 
-strLen = len(inputStr)
-reverseStr = ''
+str_len = len(input_str)
+reverse_str = ''
 
-for i in range(strLen - 1, -1, -1):
-    reverseStr += inputStr[i]
+for i in range(str_len - 1, -1, -1):
+    reverse_str += input_str[i]
 
-print(f"Reverse string: {reverseStr}")
+print(f"Reverse string: {reverse_str}")

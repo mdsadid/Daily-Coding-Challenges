@@ -1,5 +1,5 @@
-inputStr = input('Enter a string: ')
-count = inputStr.count('*')
+input_str = input('Enter a string: ')
+count = input_str.count('*')
 
 if count:
     print(f"Number of asterisks: {count}")

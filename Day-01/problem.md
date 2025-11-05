@@ -15,5 +15,3 @@ The string length will not exceed **1000 characters**.
 ## 🧮 Output
 Print a single integer —  
 the total number of `*` (asterisk/star) characters in the given string.
-
----
