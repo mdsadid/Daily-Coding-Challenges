@@ -9,6 +9,7 @@ rl.question('Enter a string: ', (inputStr) => {
     if (inputStr.trim().length === 0) {
         console.log("Empty string!");
         rl.close();
+        
         return;
     }
 
