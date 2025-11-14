@@ -1,4 +1,4 @@
-# 🧩 Day 04: Find the Longest Word
+# 🧩 Day 4: Find the Longest Word
 
 ## 📜 Problem Statement
 You are given a sentence (a string containing multiple words separated by spaces).  
@@ -8,10 +8,10 @@ If the sentence is empty, print `"Empty sentence!"`.
 
 ---
 
-## 🔢 Input
+## 📥 Input
 A single line containing a sentence (may include punctuation).
 
 ---
 
-## 🧮 Output
+## 📤 Output
 The longest word in the sentence.

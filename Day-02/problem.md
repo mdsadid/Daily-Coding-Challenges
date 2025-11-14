@@ -9,10 +9,10 @@ If the input string is empty, print `"Empty string!"`.
 
 ---
 
-## 🔢 Input
+## 📥 Input
 A single line of text (it can contain spaces, punctuation, etc.)
 
 ---
 
-## 🧮 Output
+## 📤 Output
 The reversed version of the string, or `"Empty string!"` if nothing was entered.

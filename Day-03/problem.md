@@ -9,12 +9,12 @@ If the string is empty, print `"Empty string!"`.
 
 ---
 
-## 🔢 Input
+## 📥 Input
 A single line of text (it can include letters, numbers, and symbols).
 
 ---
 
-## 🧮 Output
+## 📤 Output
 Number of vowels: X
 
 where `X` is the total number of vowels.
